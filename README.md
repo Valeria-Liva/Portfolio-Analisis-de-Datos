@@ -14,4 +14,3 @@ También me encuentro realizando un curso en Potrero Digital el cual cuenta con 
 Realice proyectos en Power Bi donde inicie con una limpieza de datos, unificación de criterios, categorización de datos. Luego continue con la creación de dashboards
 con diferentes visualizaciones e insights.
 
-Pueden contactarme a través de mi LinkedIn https://www.linkedin.com/in/valeria-liva/
